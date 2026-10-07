@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "events": [
     {
       "id": "newyear",
@@ -2158,7 +2158,6 @@
           "worldfoodday",
           "food",
           "foodie",
-          "foodporn",
           "instafood",
           "foodphotography",
           "healthyfood",
@@ -2206,8 +2205,7 @@
           "rezepte",
           "foodblogger",
           "gutenappetit",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "es": [
           "díamundialdelaalimentación",
@@ -2224,8 +2222,7 @@
           "productolocal",
           "desperdiciocero",
           "hambrecero",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "fr": [
           "journéemondialedelalimentation",
@@ -2242,8 +2239,7 @@
           "bonappétit",
           "gastronomie",
           "fooding",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "pt": [
           "diamundialdaalimentação",
@@ -2260,8 +2256,7 @@
           "fomezero",
           "produtorlocal",
           "comidadeverdade",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "ru": [
           "всемирныйденьпродовольствия",
@@ -2278,8 +2273,7 @@
           "полезнаяеда",
           "фермерскиепродукты",
           "вкуснаяеда",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "ar": [
           "اليوم_العالمي_للأغذية",
@@ -2296,8 +2290,7 @@
           "فطور",
           "غذاء_صحي",
           "foodie",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "it": [
           "giornatamondialedellalimentazione",
@@ -2314,8 +2307,7 @@
           "antispreco",
           "gastronomia",
           "buonappetito",
-          "instafood",
-          "foodporn"
+          "instafood"
         ],
         "id": [
           "haripangansedunia",
@@ -2332,8 +2324,7 @@
           "ketahananpangan",
           "jajanan",
           "makanmakan",
-          "instafood",
-          "foodporn"
+          "instafood"
         ]
       }
     },
